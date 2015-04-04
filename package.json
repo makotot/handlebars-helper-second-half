@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-second-half",
   "version": "0.0.1",
-  "description": "",
+  "description": "Returns second half items of a collection",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
